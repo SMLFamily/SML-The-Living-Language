@@ -1,4 +1,4 @@
-The Definition of Non-Standard ML
+The Definition of Not Standard ML
 ==========
 
 These sources are derived from the Definition of Standard ML (Revised).
