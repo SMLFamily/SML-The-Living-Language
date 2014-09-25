@@ -1,4 +1,4 @@
-The Definition of Not Standard ML
+SML, The Living Language (aka, Successor ML)
 ==========
 
 These sources are derived from the Definition of Standard ML (Revised).
